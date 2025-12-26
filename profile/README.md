@@ -15,7 +15,13 @@ We focus on creating high-quality software projects and contributing to the open
 
 ## 🔧 Technologies We Use
 
-We work with a diverse set of modern technologies and tools to deliver exceptional results.
+We work with a diverse set of modern technologies and tools to deliver exceptional results:
+
+- **Languages**: Modern programming languages and frameworks
+- **Cloud & Infrastructure**: Scalable cloud solutions and DevOps practices
+- **Tools & Platforms**: Industry-standard development and collaboration tools
+
+*Check out our repositories to see the specific technologies we're working with!*
 
 ## 🤝 Get Involved
 
