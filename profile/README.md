@@ -1,42 +1,71 @@
-# Welcome to Capictive 👋
+# Capictive
 
-## About Us
+Plataforma de información electoral para Perú. Voto informado, democracia fortalecida.
 
-Capictive is an organization dedicated to building innovative solutions and fostering collaborative development.
+## 🎯 Principios
 
-## 🚀 What We Do
+- **Resumida**: Información clara, sin bombardeo de datos
+- **Contrastada**: Datos verificables con archivos descargables
+- **Simplificada**: Lenguaje accesible para todos los votantes
 
-We focus on creating high-quality software projects and contributing to the open-source community. Our team is passionate about:
+## 📊 Partidos Políticos
 
-- 💻 Building robust and scalable applications
-- 🌐 Contributing to open-source projects
-- 🤝 Collaborating with developers worldwide
-- 📚 Sharing knowledge and best practices
+| Partido | Plan | Diputados | Senadores |
+|---------|------|-----------|-----------|
+| Renovación Popular | 🟢 | 🟢 | 🟢 |
+| Fuerza Popular | 🟢 | 🟢 | 🟢 |
+| Perú Primero | 🟢 | 🟢 | 🟢 |
+| País para Todos | 🟢 | 🟢 | 🟢 |
+| Acción Popular | 🟢 | 🟢 | 🟢 |
 
-## 🔧 Technologies We Use
+## ✨ Funcionalidades
 
-We work with a diverse set of modern technologies and tools to deliver exceptional results:
+### Vista de Partidos
+- Nombre y logo
+- Representante presidencial con foto
+- Documentos oficiales descargables
 
-- **Languages**: Modern programming languages and frameworks
-- **Cloud & Infrastructure**: Scalable cloud solutions and DevOps practices
-- **Tools & Platforms**: Industry-standard development and collaboration tools
+### 🤖 Chatbot (Google AI Studio)
+- Explica conceptos con alegorías simples
+- Analiza viabilidad de propuestas
+- Responde dudas específicas
 
-*Check out our repositories to see the specific technologies we're working with!*
+### 🔍 Filtros Interactivos
+Filtra partidos por:
+- Historial político
+- Candidatos de tu región
+- Propuestas específicas (salud, educación, economía, etc.)
+- Visualización gráfica comparativa
 
-## 🤝 Get Involved
+## 📱 Redes Sociales
 
-We welcome contributions from the community! Here's how you can get involved:
+Contenido generado con Capictive Avatar para máximo alcance.
 
-- 🌟 Star our repositories
-- 🐛 Report bugs and issues
-- 💡 Suggest new features
-- 🔀 Submit pull requests
-- 📖 Improve documentation
+## 🔌 APIs
 
-## 📫 Connect With Us
+- [Proyectos de Ley](https://api.congreso.gob.pe/spley-portal-service/proyecto-ley/comision/17/legislativo/2022)
+- [Congresistas](https://api.infocongresistasperu.pe/api/congresista/visible)
 
-Feel free to reach out and connect with our team. We're always open to collaboration and new ideas!
+## 🕷️ Web Scraping
+
+- Entrevistas a representantes
+- Noticias actualizadas diariamente
+- Contexto histórico
+
+## 📚 Fuentes
+
+- [JNE - Fórmulas Presidenciales 2026](https://www.infobae.com/peru/2025/12/24/elecciones-2026-estos-son-los-34-partidos-politicos-que-lograron-inscribir-sus-formulas-presidenciales-ante-el-jne/)
+- [Plataforma Electoral JNE](https://plataformaelectoral.jne.gob.pe/bandeja/filtros)
+- [Info Congresistas](http://infocongresistasperu.pe/congresistas)
+
+## 🛠️ Tecnologías
+
+```
+pip install youtube-transcript-api
+```
 
 ---
 
-*Building the future, one commit at a time* ✨
+**Hecho con ❤️ para un Perú más informado**
+
+*Plataforma independiente sin afiliación partidaria*
