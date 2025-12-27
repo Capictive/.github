@@ -57,6 +57,7 @@ Contenido generado con Capictive Avatar para máximo alcance.
 - [JNE - Fórmulas Presidenciales 2026](https://www.infobae.com/peru/2025/12/24/elecciones-2026-estos-son-los-34-partidos-politicos-que-lograron-inscribir-sus-formulas-presidenciales-ante-el-jne/)
 - [Plataforma Electoral JNE](https://plataformaelectoral.jne.gob.pe/bandeja/filtros)
 - [Info Congresistas](http://infocongresistasperu.pe/congresistas)
+- [Idea en Detalle](https://sprout-humerus-e5e.notion.site/capictive)
 
 ## 🛠️ Tecnologías
 
